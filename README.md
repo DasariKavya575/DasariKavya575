@@ -1,4 +1,4 @@
-Hi, I’m kavya, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science (AI & ML), and I enjoy turning raw data into meaningful insights and solutions.
+Hi, I’m kavya, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science and Engineering, and I enjoy turning raw data into meaningful insights and solutions.
 
 🔹 I specialize in:
 
@@ -12,7 +12,7 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 🔹 My Projects:
 
-Hi, I’m Kavya, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science (AI & ML), and I enjoy turning raw data into meaningful insights and solutions.
+Hi, I’m Kavya, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science and Engineering, and I enjoy turning raw data into meaningful insights and solutions.
 
 🔹 I specialize in:
 
