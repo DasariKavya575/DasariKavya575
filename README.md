@@ -1,16 +1,63 @@
-## Hi there 👋
+Hi, I’m kavya, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science (AI & ML), and I enjoy turning raw data into meaningful insights and solutions.
 
-<!--
-**DasariKavya575/DasariKavya575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 I specialize in:
 
-Here are some ideas to get you started:
+Programming & Data Analysis: Python, SQL, NumPy, Pandas, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning: SVM, Classification, Model Evaluation
+
+Database Management: SQLite, MySQL
+
+Data Visualization: Power BI dashboards, Matplotlib
+
+🔹 My Projects:
+
+Hi, I’m Kavya, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science (AI & ML), and I enjoy turning raw data into meaningful insights and solutions.
+
+🔹 I specialize in:
+
+Programming & Data Analysis: Python, SQL, NumPy, Pandas, Power BI
+
+Machine Learning: SVM, Classification, Model Evaluation
+
+Database Management: SQLite, MySQL
+
+Data Visualization: Power BI dashboards, Matplotlib
+
+🔹 My Projects:
+
+🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
+
+✈ Airline Data Analysis Using Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+🎬 MovieVerse – Data Analysis using Python (Pandas + NumPy)
+
+🧠 Parkinson’s Disease Prediction – Built an ML model (SVM) with 91% accuracy
+
+🚕 Uber Trip Data Analysis – Interactive dashboards in Power BI
+
+🌱 I’m currently enhancing my expertise in Business Intelligence & Advanced Analytics. 📌 My goal is to build data-driven solutions that help businesses make smarter decisions.
+
+📫 Let’s connect:
+
+LinkedIn: www.linkedin.com/in/dasari-kavya14
+
+GitHub: 
+
+🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
+
+✈ Airline Data Analysis Using Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+🎬 MovieVerse – Data Analysis using Python (Pandas + NumPy)
+
+🧠 Parkinson’s Disease Prediction – Built an ML model (SVM) with 91% accuracy
+
+🚕 Uber Trip Data Analysis – Interactive dashboards in Power BI
+
+🌱 I’m currently enhancing my expertise in Business Intelligence & Advanced Analytics. 📌 My goal is to build data-driven solutions that help businesses make smarter decisions.
+
+📫 Let’s connect:
+
+LinkedIn: www.linkedin.com/in/dasari-kavya14
+
+GitHub: 
