@@ -30,34 +30,22 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 ✈ Airline Data Analysis Using Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-🎬 MovieVerse – Data Analysis using Python (Pandas + NumPy)
-
-🧠 Parkinson’s Disease Prediction – Built an ML model (SVM) with 91% accuracy
-
-🚕 Uber Trip Data Analysis – Interactive dashboards in Power BI
-
 🌱 I’m currently enhancing my expertise in Business Intelligence & Advanced Analytics. 📌 My goal is to build data-driven solutions that help businesses make smarter decisions.
 
 📫 Let’s connect:
 
 LinkedIn: www.linkedin.com/in/dasari-kavya14
 
-GitHub: 
+GitHub: https://github.com/DasariKavya575
 
 🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
 
 ✈ Airline Data Analysis Using Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-🎬 MovieVerse – Data Analysis using Python (Pandas + NumPy)
-
-🧠 Parkinson’s Disease Prediction – Built an ML model (SVM) with 91% accuracy
-
-🚕 Uber Trip Data Analysis – Interactive dashboards in Power BI
-
 🌱 I’m currently enhancing my expertise in Business Intelligence & Advanced Analytics. 📌 My goal is to build data-driven solutions that help businesses make smarter decisions.
 
 📫 Let’s connect:
 
 LinkedIn: www.linkedin.com/in/dasari-kavya14
 
-GitHub: 
+GitHub: https://github.com/DasariKavya575
